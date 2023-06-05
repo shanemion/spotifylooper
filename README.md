@@ -12,7 +12,7 @@ Spotify Looper is a Python project that leverages the Spotify API to create a cu
 
 1. Input the start and end times for your desired loop in the format MM:SS.
 2. Click on 'Loop Song' button to start looping the current song between these specified times.
-3. Click on 'Stop Song' button to stop the loop.
+3. Click on 'Stop Loop' button to stop the loop.
 
 Please note that your Spotify Developer credentials (Client ID, Client Secret, and Redirect URI) are required to use this application.
 
