@@ -1,4 +1,4 @@
-# Spotify Looper
+# Spotify In-Song Looper
 
 Spotify Looper is a Python project that leverages the Spotify API to create a customizable looping feature for your favorite tracks. The loop's start and end times can be defined manually in the format MM:SS. This application uses the tkinter library to provide a simple and straightforward user interface.
 
